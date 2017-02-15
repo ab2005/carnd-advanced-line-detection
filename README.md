@@ -390,7 +390,7 @@ dx = (veh_pos - middle)*xm_per_pix
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hagEnbnyQN0
 " target="_blank"><img src="http://img.youtube.com/vi/hagEnbnyQN0/0.jpg" 
-alt="Projectvideo" width="240" height="315" border="10" /></a>
+alt="Projectvideo" width="560" height="315" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nF2j6OIfB70
 " target="_blank"><img src="http://img.youtube.com/vi/nF2j6OIfB70/0.jpg" 
@@ -400,6 +400,7 @@ alt="Challenge video" width="560" height="315" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/3TU5iCESlNg/0.jpg" 
 alt="Hard Challenge video" width="560" height="315" border="10" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hagEnbnyQN0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hagEnbnyQN0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nF2j6OIfB70" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3TU5iCESlNg" frameborder="0" allowfullscreen></iframe>
