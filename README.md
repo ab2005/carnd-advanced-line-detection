@@ -387,8 +387,7 @@ middle = (left_fitx[-1] + right_fitx[-1])//2
 veh_pos = image.shape[1]//2
 dx = (veh_pos - middle)*xm_per_pix
 ```
-
-
+[![Project video](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=hagEnbnyQN0)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hagEnbnyQN0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nF2j6OIfB70" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3TU5iCESlNg" frameborder="0" allowfullscreen></iframe>
