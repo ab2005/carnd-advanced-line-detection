@@ -388,23 +388,19 @@ veh_pos = image.shape[1]//2
 dx = (veh_pos - middle)*xm_per_pix
 ```
 
-
+[![IMAGE ALT TEXT]](http://www.youtube.com/watch?v=hagEnbnyQN0 "Video Title")
 ```python
 from IPython.display import YouTubeVideo
 YouTubeVideo('hagEnbnyQN0')
 ```
 
-
-
-
-
-        <iframe
-            width="400"
-            height="300"
-            src="https://www.youtube.com/embed/hagEnbnyQN0"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/hagEnbnyQN0"
+    frameborder="0"
+    allowfullscreen
+></iframe>
         
 
 
