@@ -388,15 +388,18 @@ veh_pos = image.shape[1]//2
 dx = (veh_pos - middle)*xm_per_pix
 ```
 
- <iframe
-            width="400"
-            height="300"
-            src="https://www.youtube.com/embed/3TU5iCESlNg"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hagEnbnyQN0
+" target="_blank"><img src="http://img.youtube.com/vi/hagEnbnyQN0/0.jpg" 
+alt="Projectvideo" width="240" height="180" border="10" /></a>
 
-[![Project video](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=hagEnbnyQN0)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nF2j6OIfB70
+" target="_blank"><img src="http://img.youtube.com/vi/nF2j6OIfB70/0.jpg" 
+alt="Projectvideo" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3TU5iCESlNg
+" target="_blank"><img src="http://img.youtube.com/vi/3TU5iCESlNg/0.jpg" 
+alt="Projectvideo" width="240" height="180" border="10" /></a>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hagEnbnyQN0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nF2j6OIfB70" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3TU5iCESlNg" frameborder="0" allowfullscreen></iframe>
