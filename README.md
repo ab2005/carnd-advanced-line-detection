@@ -388,63 +388,10 @@ veh_pos = image.shape[1]//2
 dx = (veh_pos - middle)*xm_per_pix
 ```
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/embed/hagEnbnyQN0 "Everything Is AWESOME")
-```python
-from IPython.display import YouTubeVideo
-YouTubeVideo('hagEnbnyQN0')
-```
 
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/hagEnbnyQN0"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-        
-
-
-
-
-```python
-YouTubeVideo('nF2j6OIfB70')
-```
-
-
-
-
-
-        <iframe
-            width="400"
-            height="300"
-            src="https://www.youtube.com/embed/nF2j6OIfB70"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-
-
-
-
-```python
-YouTubeVideo('3TU5iCESlNg')
-```
-
-
-
-
-
-        <iframe
-            width="400"
-            height="300"
-            src="https://www.youtube.com/embed/3TU5iCESlNg"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hagEnbnyQN0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nF2j6OIfB70" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3TU5iCESlNg" frameborder="0" allowfullscreen></iframe>
 ---
 # Discussion
 
