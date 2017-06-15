@@ -401,12 +401,9 @@ alt="Challenge video" width="560" height="315" border="10" /></a>
 alt="Hard Challenge video" width="560" height="315" border="10" /></a>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hagEnbnyQN0/0.jpg)](http://www.youtube.com/watch?v=hagEnbnyQN0)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nF2j6OIfB70/0.jpg)](http://www.youtube.com/watch?v=nF2j6OIfB70)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3TU5iCESlNg/0.jpg)](http://www.youtube.com/watch?v=3TU5iCESlNg)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hagEnbnyQN0" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hagEnbnyQN0" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nF2j6OIfB70" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3TU5iCESlNg" frameborder="0" allowfullscreen></iframe>
 ---
 # Discussion
 
